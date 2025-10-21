@@ -1,0 +1,1 @@
+C:\Users\stask\my_parser_kma_group_1\target\package/my_parser_kma_group_1-0.1.1\target\debug\my_parser_kma_group_1.exe: C:\Users\stask\my_parser_kma_group_1\target\package\my_parser_kma_group_1-0.1.1\src\lib.rs C:\Users\stask\my_parser_kma_group_1\target\package\my_parser_kma_group_1-0.1.1\src\main.rs

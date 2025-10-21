@@ -1,0 +1,9 @@
+[package]
+name = "my_parser_kma_group_1"
+version = "0.1.1"
+edition = "2024"
+license = "MIT"
+description = "My new crate"
+
+[dependencies]
+peg = "0.8.5"
